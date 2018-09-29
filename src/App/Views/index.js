@@ -1,3 +1,3 @@
-import React from "react"
+import RegistrationPageView from './RegistrationPage'
 
-export default () => <div> App View </div>
+export default RegistrationPageView
